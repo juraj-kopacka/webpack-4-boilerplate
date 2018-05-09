@@ -2,16 +2,16 @@
 
 This is a simple webpack (4.6) boilerplate. It's intention is to reduce time with new project basic webpack/stuff-compilation setup.
 
-Main features:
+#### Main features:
 * compiling js, css, html, ...
 * webpack dev server with 2 modes - __simple__ or __proxy__ to existing nginx/apache server (php, ...)
 * hot reloading browser after changes in js, css, php, html, ...
 
 
-Modes:
-* development mode: development server with hot reloading - refresh when js, styles, html, php, ... files change
-* watch mode: compiles js and css after js and styles change
-* production mode: builds production files
+#### Modes:
+* __development mode:__ development server with hot reloading - refresh when js, styles, html, php, ... files change
+* __watch mode:__ compiles js and css after js and styles change
+* __production mode:__ builds production files
 
 
 ## Prerequisites
@@ -30,7 +30,7 @@ All npm packages will unpack to `node_modules`.
 
 ## Modes
 
-### Development mode - 2 cases incudeed
+### Development mode - 2 cases included
 #### - simple dev server
 
 ```sh
