@@ -1,6 +1,6 @@
-# Webpack 4.6 Boilerplate
+# Webpack 4.8 Boilerplate
 
-This is a simple webpack (4.6) boilerplate. It's intention is to reduce time with new project basic webpack/stuff-compilation setup.
+This is a simple webpack (4.8.1) boilerplate. It's intention is to reduce time with new project basic webpack/stuff-compilation setup.
 
 #### Main features:
 * compiling js, css, html, ...

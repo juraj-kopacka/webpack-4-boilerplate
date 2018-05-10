@@ -23,7 +23,7 @@ module.exports = merge(webpackConfig, {
     },
     proxy: {
       '/': {
-        target: "http://www.testing.test/", // this is the watched php site
+        target: "http://www.webpack.test/", // this is the watched server - like php site
         changeOrigin: true,
         secure: false
       }
